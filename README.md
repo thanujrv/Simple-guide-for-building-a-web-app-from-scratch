@@ -9,6 +9,8 @@ https://www.rdoproject.org/install/packstack/
 
 # Virtual machines and OS setup
 
+# Network Setup
+
 # Docker containers
 
 # Web Apps
