@@ -1,9 +1,10 @@
-#Hardware
+# Hardware
+Server Hardware Setup
 
-#Virtualization
+# Virtualization
 
-#Virtual machines and OS setup
+# Virtual machines and OS setup
 
-#Docker containers
+# Docker containers
 
-#Web Apps
+# Web Apps
